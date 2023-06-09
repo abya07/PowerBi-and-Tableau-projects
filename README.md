@@ -1,8 +1,2 @@
-# PowerBi-projects
-Here are some PowerBi Dashboards that I have created. 
-
-- Ecommerce Sales Data Analysis
-- Marketing Campaign Analysis
-- Mobile Gadget Sales Analysis
-- Netflix Analysis
-- Restaurant Ratings Analysis
+# PowerBi and Tableau-projects
+I have provided a Google Drive link and my Tableau public link consisting of my powerBI and Tableau projects.
